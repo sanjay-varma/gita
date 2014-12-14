@@ -3,7 +3,7 @@ Srimad Bhagavad Gita
 
 A nice way to study the Srimad Bhagavad Gita. A presentation of the Sanskrit text along with Roman transliteration and English translation from The Holy Gita of Swami Chinmayananda synchronized with correct, clear and resonaant chanting by Swami Brahmananda of the Chinmaya Mission.
 
-Online: http://svarma.tx0.org/gita
+Online: http://gita.eu5.org
 
 Chrome: http://goo.gl/j4OdLP
 
